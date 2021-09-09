@@ -1,3 +1,7 @@
+Followed Clever Programmer's guide on Creating a tiktok clone using React, Material UI, and Firebase.
+Tutorial: https://www.youtube.com/watch?v=GePLvNgWROg
+Hosted at: https://tik-tok-clone-fd4d4.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
